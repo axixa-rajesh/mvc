@@ -10,3 +10,4 @@ spl_autoload_register(function($classname){
 }); 
 $obj=new Autoload();
 ?>
+<!-- Kuch bhi -->
