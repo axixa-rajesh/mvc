@@ -1,4 +1,5 @@
 <?php
+// batch7a_22
 // require_once"helper/env.php";
 // require_once"helper/req.php";
 array_map(fn($f)=>include $f,glob('helper/*.php'));
